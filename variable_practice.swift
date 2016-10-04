@@ -6,3 +6,4 @@ var myVariable = 12
 var myVariable: Int = 24
 //Using Swift's inference method to skip the Define process
 var aVariable = 64
+/*I Hope you can grasp what I am doing, if you don't, Message me or ask a quastion so I can help :)*/
